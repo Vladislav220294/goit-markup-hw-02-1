@@ -14,7 +14,8 @@ ul {
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  
+color: #434455;
   background-color: #ffffff;
 }
 
@@ -22,24 +23,28 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+color: #4d5ae5;
 }
-.logo-header-first {
-  color: #4d5ae5;
+.logo-header-second {
+  
+color: #2e2f42;
 }
 .menu-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .address-list-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+font-style: normal;
+  
 }
 .menu-link:hover,
 .menu-link:focus,
@@ -52,8 +57,9 @@ body {
 }
 .main-title {
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
+text-align: center;
   color: #fff;
 }
 .order-btn {
@@ -73,45 +79,53 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .benefits-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  
 }
 .team-section {
   background: #f4f4fd;
 }
 .section-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+}
+.team-list {
+    background-color: #FFFFFF;
 }
 .team-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .team-item-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 
-  color: #434455;
+  
 }
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+color: #2e2f42;
 }
 .portfolio-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  
 }
 .page-footer {
   background: #2e2f42;
@@ -120,13 +134,12 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+color: #4d5ae5;
 }
-.logo-footer-first {
-  color: #4d5ae5;
-}
+
 .logo-footer-second {
   color: #f4f4fd;
 }
