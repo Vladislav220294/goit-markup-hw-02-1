@@ -14,8 +14,8 @@ ul {
 
 body {
   font-family: "Roboto", sans-serif;
-  
-color: #434455;
+
+  color: #434455;
   background-color: #ffffff;
 }
 
@@ -26,25 +26,25 @@ color: #434455;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-color: #4d5ae5;
+  color: #4d5ae5;
 }
 .logo-header-second {
-  
-color: #2e2f42;
+  color: #2e2f42;
 }
 .menu-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-color: #2e2f42;
+  color: #2e2f42;
+}
+.address {
+  font-style: normal;
 }
 .address-list-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-font-style: normal;
-  
 }
 .menu-link:hover,
 .menu-link:focus,
@@ -59,7 +59,7 @@ font-style: normal;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-text-align: center;
+  text-align: center;
   color: #fff;
 }
 .order-btn {
@@ -72,20 +72,19 @@ text-align: center;
 }
 .order-btn:hover,
 .order-btn:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 .benefits-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-color: #2e2f42;
+  color: #2e2f42;
 }
 .benefits-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
 }
 .team-section {
   background: #f4f4fd;
@@ -94,38 +93,36 @@ color: #2e2f42;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-text-align: center;
-text-transform: capitalize;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
-.team-list {
-    background-color: #FFFFFF;
+.team-item {
+  background-color: #ffffff;
 }
 .team-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-color: #2e2f42;
+  color: #2e2f42;
 }
 .team-item-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-
-  
 }
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-color: #2e2f42;
+  color: #2e2f42;
 }
 .portfolio-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
 }
 .page-footer {
   background: #2e2f42;
@@ -137,7 +134,7 @@ color: #2e2f42;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-color: #4d5ae5;
+  color: #4d5ae5;
 }
 
 .logo-footer-second {
