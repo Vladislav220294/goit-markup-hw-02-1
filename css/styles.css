@@ -119,10 +119,11 @@ padding: 120px 0;
 }
 .hero-section {
   background: #2e2f42;
-}
-.hero-container {
   padding: 188px 0;
 }
+/* .hero-container {
+  
+} */
 .main-title {
   max-width: 496px;
   margin-left: auto;
@@ -237,6 +238,7 @@ padding: 120px 0;
 .portfolio-item-box {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .portfolio-list-text {
   font-size: 16px;
@@ -245,6 +247,7 @@ padding: 120px 0;
 }
 .page-footer {
   background: #2e2f42;
+  padding: 100px 0;
 }
 .footer-logo {
   display: inline-block;
@@ -269,7 +272,7 @@ padding: 120px 0;
   max-width: 264px;
   
 }
-.footer-container {
-  padding: 100px 0;
+/* .footer-container {
+ 
   
-}
+} */
