@@ -177,7 +177,7 @@ padding: 120px 0;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  transition: background-color background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .order-btn:hover,
 .order-btn:focus {
@@ -398,6 +398,9 @@ padding: 120px 0;
 }
 .footer-wrapper {
   margin-right: 120px;
+}
+.footer-social-list {
+  gap: 16px;
 }
 .footer-social-link:hover, .footer-social-link:focus {
   background-color: #31D0AA;
